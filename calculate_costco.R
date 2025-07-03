@@ -16,5 +16,3 @@ costco <- function(total, w = NA, a = NA, j = NA, tax = 0) {
 }
 
 
-
-
