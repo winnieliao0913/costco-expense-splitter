@@ -1,7 +1,9 @@
 # costco-expense-splitter
-An R function to split Costco bills fairly among multiple people, taking into account:
-- partial prepayments (e.g., if someone paid upfront)
-- proportional tax sharing
+
+An R function to calculate how much each person owes on a shared Costco bill, taking into account:
+
+- individual spending (e.g., certain items bought by specific people)
+- proportional tax sharing based on each person's subtotal
 
 ## Example
 
